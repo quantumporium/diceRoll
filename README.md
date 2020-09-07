@@ -1,6 +1,8 @@
 # diceRoll
 This project is a simple implementation off a dice roll.
-all the code is in diceRoll.py 
+
+# how to make it work
+You need to find the diceRoll.py file
 
 # what i whant to do next
 1. Improve the source code
