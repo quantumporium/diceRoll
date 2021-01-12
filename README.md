@@ -8,4 +8,4 @@ You need to find the diceRoll.py file
 1. Improve the source code
 1. Have some GUI
 
-# !! important this project is paused 
+<h4 align = 'center'> :no_entry_sign: This project is currently on hold :no_entry_sign: </h4>
